@@ -1,0 +1,19 @@
+[book]
+authors = ["0x55ff"]
+multilingual = false
+src = "src"
+title = "learn rust by read-think-test-get loop"
+description = "the most comfortable way to learn rust for programmers"
+
+
+[output.html.playpen]
+editable = true
+
+[output.html.search]
+limit-results = 100
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 2
+boost-paragraph = 1
+expand = true
+heading-split-level = 2
